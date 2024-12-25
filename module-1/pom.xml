@@ -6,10 +6,10 @@
     <parent>
         <groupId>org.example</groupId>
         <artifactId>mvn-version-change-test</artifactId>
-        <version>1.6.5-SNAPSHOT</version>
+        <version>1.6.5</version>
     </parent>
 
-    <version>1.6.5-SNAPSHOT</version>
+    <version>1.6.5</version>
     <artifactId>module-1</artifactId>
 
     <properties>

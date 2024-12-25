@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>mvn-version-change-test</artifactId>
-    <version>1.6.5-SNAPSHOT</version>
+    <version>1.6.5</version>
     <packaging>pom</packaging>
 
     <modules>
